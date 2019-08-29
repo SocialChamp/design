@@ -1,0 +1,34 @@
+{
+  "name": "sc-design",
+  "version": "1.0.0",
+  "description": "Social Champ's Design ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialChamp/sc-design.git"
+  },
+  "keywords": [
+    "design",
+    "ui",
+    "user-interface",
+    "user",
+    "experience"
+  ],
+  "author": {
+    "name": "social-champ",
+    "email": "info@socialchamp.io",
+    "url": "https://socialchamp.io",
+  },
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/SocialChamp/sc-design/issues"
+  },
+  "homepage": "https://github.com/SocialChamp/sc-design#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
