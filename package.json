@@ -1,5 +1,5 @@
 {
-  "name": "sc-design",
+  "name": "@socialchamp/design",
   "version": "1.0.0",
   "description": "Social Champ's Design ",
   "main": "index.js",
@@ -17,11 +17,7 @@
     "user",
     "experience"
   ],
-  "author": {
-    "name": "social-champ",
-    "email": "info@socialchamp.io",
-    "url": "https://socialchamp.io"
-  },
+  "author": "social-champ <info@socialchamp.io> (https://socialchamp.io)",
   "license": "MIT ",
   "bugs": {
     "url": "https://github.com/SocialChamp/sc-design/issues"
@@ -29,6 +25,7 @@
   "homepage": "https://github.com/SocialChamp/sc-design#readme",
   "dependencies": {},
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1"
   }
